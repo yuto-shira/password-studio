@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-check
+build
+build-check
+.DS_Store
+*.local
+*.tsbuildinfo
